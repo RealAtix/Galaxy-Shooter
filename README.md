@@ -1,7 +1,7 @@
 Galaxy Shooter
 ================================
 
-*This is nothing special, just learning git.
+*This is nothing special, just learning git.*
 
 I had to make something in Javascript that used the following:
 
