@@ -21,12 +21,16 @@ You lose a life each time a comet touches the left border.
 Controls
 -------------------------
 
-Arrow keys or wasd to move
-Spacebar to shoot
+Arrow keys or wasd to move.
+Spacebar to shoot.
 
 If the sound annoys you type the following in the console (ctrl + shift + j in Chrome on Windows)
 
-1. Start screen
-    audioStart.pause();
-2. Ingame
-    audioGame.pause();
+1. Start screen:
+       
+        audioStart.pause();
+
+2. Ingame:
+      
+        audioGame.pause();
+
