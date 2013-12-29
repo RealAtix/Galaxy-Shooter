@@ -1,0 +1,14 @@
+body {
+	background: #303030;
+}
+
+#canvasMenu {
+	display: block;
+	background: #000000;
+	margin: 100px auto 0px;
+}
+
+#canvasBg, #canvasKomeet, #canvasSpeler {
+	display:block;
+	margin: -500px auto 0px;
+}
