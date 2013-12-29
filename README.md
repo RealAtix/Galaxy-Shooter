@@ -35,3 +35,5 @@ If the sound annoys you type the following in the console (ctrl + shift + j in C
         audioGame.pause();
 
 ![Screenshot](http://i.imgur.com/52d9KFT.png)
+
+![Start](http://i.imgur.com/Ml8Pwm8.png)
