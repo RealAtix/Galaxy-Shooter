@@ -10,6 +10,7 @@ I had to make something in Javascript that used the following:
 * Arrays
 * Functions with paramaters and return values
 
+[Play here](http://37.139.18.164/gxs/)
 
 The goal of the game
 -------------------------
