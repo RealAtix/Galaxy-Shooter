@@ -1,7 +1,7 @@
 Galaxy Shooter
 ================================
 
-*This is nothing special, just learning git.*
+*This game isn't really something special or unique but it was fun to make.*
 
 I had to make something in Javascript that used the following:
 
@@ -10,7 +10,6 @@ I had to make something in Javascript that used the following:
 * Arrays
 * Functions with paramaters and return values
 
-This game isn't really something special or unique, I'm just a beginner.
 
 The goal of the game
 -------------------------
